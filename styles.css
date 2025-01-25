@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 10px;
+  min-width: 250px;
+  color: white;
+  background-color: #222; /* Темный фон */
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 20px;
+  color: #A47864;
+}
+
+select, button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 14px;
+  border: 1px solid #444;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #A47864;
+  color: #2a2a2a;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #A47864;
+}
+
+#status {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #A47864;
+}
